@@ -5,6 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "mocha --timeout 10000 --exit"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
